@@ -5,7 +5,7 @@ Este projeto não está mais em desenvolvimento ou manutenção ativa.
 > **Status:** Descontinuado  
 > Este projeto não está mais em desenvolvimento ou manutenção ativa.
 
-**Versão:** 1.0.0  
+**Versão Atual:** 3.1.0  
 **Autor:** HANSoft  
 **Contato:** devhansoft@gmail.com  
 **Licença:** Licença Proprietária HANSoft  
@@ -105,24 +105,65 @@ Por motivos de segurança, o software **bloqueia o uso de executáveis e scripts
 
 ---
 
-# AVISO DE RESPONSABILIDADE
+# AVISO LEGAL
 
-Este software é fornecido **"no estado em que se encontra" ("AS IS")**, sem garantias de qualquer tipo, expressas ou implícitas.
+O **Helios Secure Envelope** é fornecido **"no estado em que se encontra"** (**"AS IS"**), de acordo com suas funcionalidades normais e limitações técnicas previsíveis, **sem garantias de qualquer tipo**, expressas ou implícitas.
 
-O **Helios Secure Envelope** é uma ferramenta destinada a auxiliar na proteção e ocultação de dados, porém **não garante proteção absoluta contra todos os tipos de ataques, análises forenses ou falhas de sistema**.
+Este software destina-se à **combinação e proteção de conteúdos** por técnicas criptográficas e mecanismos auxiliares descritos em sua documentação, buscando preservar, dentro de sua proposta funcional, a utilização normal do arquivo base.
+
+O desenvolvedor não garante:
+
+- proteção absoluta contra acesso indevido;
+- ausência total de falhas, erros, bugs ou vulnerabilidades;
+- funcionamento ininterrupto;
+- compatibilidade universal com todos os formatos de arquivo, leitores, sistemas, verificadores, mecanismos de inspeção, antivírus, compactadores ou ambientes de execução;
+- que o arquivo resultante será aceito, interpretado ou executado normalmente em todo e qualquer sistema, aplicação, política corporativa, filtro de segurança ou ambiente de terceiros;
+- recuperação integral de dados em caso de falha grave;
+- imunidade contra comprometimentos causados pelo ambiente do usuário.
+
+Bugs, falhas e comportamentos inesperados **podem existir e podem ocorrer durante o uso**, mesmo com testes e cuidados no desenvolvimento. Nenhum software é totalmente livre de erros.
+
+## Limitação de responsabilidade
+
+Na máxima extensão permitida pela legislação aplicável, o desenvolvedor não se responsabiliza por:
+
+- perda de dados;
+- uso inadequado do software;
+- falhas, bugs ou comportamentos inesperados;
+- falhas no ambiente do usuário;
+- danos decorrentes de configuração insegura do dispositivo;
+- problemas causados por softwares de terceiros;
+- corrupção de arquivos;
+- incompatibilidades com sistemas, programas, políticas de segurança ou ambientes externos;
+- comprometimento externo do sistema.
+
+Isso inclui, entre outros fatores:
+
+- malware;
+- keyloggers;
+- acesso físico ao dispositivo;
+- captura indevida de tela;
+- engenharia social;
+- interrupção elétrica;
+- falhas do sistema operacional;
+- corrupção de dados;
+- exclusão indevida;
+- erro humano;
+- uso inseguro do equipamento;
+- interferência de antivírus, filtros ou softwares de terceiros.
+
+## Responsabilidade do usuário
+
+O usuário é responsável por:
+
+- testar previamente o arquivo gerado em **ambiente controlado** antes de utilizá-lo em fluxo real;
+- manter cópia do **arquivo original** antes de qualquer operação;
+- manter backup do conteúdo relevante antes de combinar, exportar ou processar arquivos;
+- verificar se o resultado atende às necessidades do seu ambiente e da sua finalidade de uso.
 
 ---
 
-# AVISO LEGAL
-
-O **Helios Secure Scanner Script Pro** é fornecido **"no estado em que se encontra"** (*"AS IS"*), sem garantias de qualquer tipo.
-
-O desenvolvedor **não se responsabiliza por danos, perdas de dados ou quaisquer outros problemas decorrentes do uso deste software**.
-
-Este software destina-se à combinação e proteção de conteúdos por técnicas criptográficas e mecanismos auxiliares descritos em sua documentação, preservando, dentro de sua proposta funcional, a utilização normal do arquivo base.
-A HANSoft não garante compatibilidade universal com todos os formatos de arquivo, leitores, sistemas, verificadores, mecanismos de inspeção, antivírus, compactadores ou ambientes de execução.
-A HANSoft também não garante que o arquivo resultante permanecerá aceito, interpretado ou executado normalmente em todo e qualquer sistema, aplicação, política corporativa, filtro de segurança ou ambiente de terceiros.
-O usuário reconhece que deverá testar previamente o arquivo gerado em ambiente controlado antes de utilizá-lo em fluxo real, profissional, sensível ou produtivo, bem como manter cópia do arquivo original e do conteúdo relevante antes de qualquer operação de combinação, exportação ou processamento.
+**Importante:** nenhum software pode oferecer garantia absoluta de segurança, compatibilidade universal ou recuperação total de dados em todos os cenários.
 
 ---
 
