@@ -111,9 +111,18 @@ Este software é fornecido **"no estado em que se encontra" ("AS IS")**, sem gar
 
 O **Helios Secure Envelope** é uma ferramenta destinada a auxiliar na proteção e ocultação de dados, porém **não garante proteção absoluta contra todos os tipos de ataques, análises forenses ou falhas de sistema**.
 
-O desenvolvedor **não se responsabiliza por perda de dados, falhas de uso, uso inadequado ou acesso não autorizado às informações protegidas**.
+---
 
-Ao utilizar este software, o usuário reconhece e aceita estes termos.
+# AVISO LEGAL
+
+O **Helios Secure Scanner Script Pro** é fornecido **"no estado em que se encontra"** (*"AS IS"*), sem garantias de qualquer tipo.
+
+O desenvolvedor **não se responsabiliza por danos, perdas de dados ou quaisquer outros problemas decorrentes do uso deste software**.
+
+Este software destina-se à combinação e proteção de conteúdos por técnicas criptográficas e mecanismos auxiliares descritos em sua documentação, preservando, dentro de sua proposta funcional, a utilização normal do arquivo base.
+A HANSoft não garante compatibilidade universal com todos os formatos de arquivo, leitores, sistemas, verificadores, mecanismos de inspeção, antivírus, compactadores ou ambientes de execução.
+A HANSoft também não garante que o arquivo resultante permanecerá aceito, interpretado ou executado normalmente em todo e qualquer sistema, aplicação, política corporativa, filtro de segurança ou ambiente de terceiros.
+O usuário reconhece que deverá testar previamente o arquivo gerado em ambiente controlado antes de utilizá-lo em fluxo real, profissional, sensível ou produtivo, bem como manter cópia do arquivo original e do conteúdo relevante antes de qualquer operação de combinação, exportação ou processamento.
 
 ---
 
