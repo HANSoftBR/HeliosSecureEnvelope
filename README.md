@@ -2,9 +2,6 @@
 **Status:** Descontinuado  
 Este projeto não está mais em desenvolvimento ou manutenção ativa.
 
-> **Status:** Descontinuado  
-> Este projeto não está mais em desenvolvimento ou manutenção ativa.
-
 **Versão Atual:** 3.1.0  
 **Autor:** HANSoft  
 **Contato:** devhansoft@gmail.com  
