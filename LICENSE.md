@@ -1,5 +1,8 @@
 # LICENÇA DE USO — SOFTWARE PROPRIETÁRIO
 
+**Status:** Descontinuado  
+Este projeto não está mais em desenvolvimento ou manutenção ativa.
+
 **Nome do Software:** Helios Secure Envelope  
 **Autor:** HANSoft (Desenvolvedor independente)  
 **Contato:** devhansoft@gmail.com  
@@ -38,14 +41,41 @@ O uso do software **não transfere ao usuário** qualquer direito de propriedade
 
 ---
 
-## 4. ISENÇÃO DE GARANTIA
+## 4. ISENÇÃO DE GARANTIA E LIMITAÇÃO DE RESPONSABILIDADE
 
-O software é fornecido **"NO ESTADO EM QUE SE ENCONTRA"**, sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando, às garantias de comercialização, adequação a uma finalidade específica ou não violação de direitos de terceiros.
+O **Helios Secure Envelope** é fornecido **"no estado em que se encontra"** (**"AS IS"**), de acordo com suas funcionalidades normais e limitações técnicas previsíveis, **sem garantias de qualquer tipo**, expressas ou implícitas, incluindo, sem limitação, garantias de comercialização, adequação a finalidade específica e não violação de direitos de terceiros.
 
-O **Helios Secure Envelope** é uma ferramenta de criptografia destinada a auxiliar na proteção e ocultação de dados do usuário. O software **não garante proteção absoluta** contra todas as formas de perda de dados, análise forense, ataques ou falhas de sistema.
+O software destina-se a auxiliar na **combinação, proteção e ocultação de conteúdos**, por meio de técnicas criptográficas e mecanismos auxiliares descritos em sua documentação, buscando preservar, dentro de sua proposta funcional, a utilização normal do arquivo base.
 
-Em nenhuma hipótese a **HANSoft** será responsável por quaisquer danos diretos, indiretos, incidentais ou consequenciais decorrentes do uso ou incapacidade de uso deste software.
+**O desenvolvedor não garante:**
 
+- proteção absoluta contra acesso indevido, análise forense, ataques, falhas de sistema ou perda de dados;
+- ausência total de falhas, erros, bugs ou vulnerabilidades;
+- funcionamento ininterrupto;
+- compatibilidade universal com todos os formatos de arquivo, leitores, sistemas, verificadores, mecanismos de inspeção, antivírus, compactadores ou ambientes de execução;
+- que o arquivo resultante será aceito, interpretado ou executado normalmente em todo e qualquer sistema, aplicação, política corporativa, filtro de segurança ou ambiente de terceiros;
+- recuperação integral de dados em qualquer hipótese de falha.
+
+Bugs, falhas e comportamentos inesperados **podem existir e podem ocorrer durante o uso**, mesmo com testes e cuidados no desenvolvimento. Nenhum software é totalmente livre de erros.
+
+O usuário reconhece que a **decisão de utilizar este software é feita por sua própria escolha e responsabilidade**, devendo avaliar previamente se ele atende às suas necessidades e se é adequado ao ambiente em que será utilizado.
+
+**O usuário é responsável por:**
+
+- testar previamente o arquivo gerado em ambiente controlado antes de utilizá-lo em fluxo real, profissional, sensível ou produtivo;
+- manter cópia do arquivo original antes de qualquer operação;
+- realizar backup periódico do conteúdo relevante antes de combinar, exportar ou processar arquivos;
+- verificar se o resultado atende às necessidades do seu ambiente e da sua finalidade de uso.
+
+Na máxima extensão permitida pela legislação aplicável, a **HANSoft** não se responsabiliza por prejuízos decorrentes de:
+
+- uso inadequado do software;
+- falhas, bugs ou comportamentos inesperados;
+- perda, corrupção ou exclusão indevida de dados;
+- falhas no ambiente do usuário;
+- configuração insegura do dispositivo;
+- interferência de softwares de terceiros, antivírus, filtros ou mecanismos externos;
+- malware, engenharia social, acesso físico indevido, interrupção elétrica, falhas do sistema operacional ou erro humano.
 ---
 
 ## 5. BIBLIOTECAS DE TERCEIROS
