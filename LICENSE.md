@@ -76,6 +76,11 @@ Na máxima extensão permitida pela legislação aplicável, a **HANSoft** não 
 - configuração insegura do dispositivo;
 - interferência de softwares de terceiros, antivírus, filtros ou mecanismos externos;
 - malware, engenharia social, acesso físico indevido, interrupção elétrica, falhas do sistema operacional ou erro humano.
+
+---
+
+**Importante:** nenhum software pode oferecer garantia absoluta de segurança, compatibilidade universal ou recuperação total de dados em todos os cenários.
+
 ---
 
 ## 5. BIBLIOTECAS DE TERCEIROS
